@@ -1,4 +1,4 @@
 
 cd my-game
->>   npm install
->>   npm run dev
+npm install
+npm run dev
